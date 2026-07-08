@@ -1,0 +1,5 @@
+name: BanSMP
+version: 1.0
+main: com.yourname.bansmp.BanSMPPlugin
+api-version: 1.21
+description: Ban on death and revive with Nether Stars.
